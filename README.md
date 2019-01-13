@@ -30,7 +30,7 @@ So that we don't accept incomplete kits from customers and shrink our inventory
 **N.B.** *[behave](https://behave.readthedocs.io/en/latest/) was used for user-story (1) and (3).*
   
 ### How to:
-Assuing you have [behave](https://pypi.org/project/behave/) installed, in the project directory, run the below:point_down: 
+Assuming you have [behave](https://pypi.org/project/behave/) installed:sunglasses:, in the project directory, run the below:point_down: 
 ```
 $ bevave 
 ```
