@@ -7,6 +7,14 @@ See [case study](case-study/problem.md) for the questions being solved.
 * * *
 
 ### How to:
+```
+├── funds_transfer.feature
+├── operation_manager_privileges.feature
+└── steps
+    ├── funds_transfer.py
+    └── operation_manager_privileges.py
+```
+
 Assuming you have [behave](https://pypi.org/project/behave/) installed:sunglasses:, in the project directory, run the below:point_down: 
 ```
 $ behave 
