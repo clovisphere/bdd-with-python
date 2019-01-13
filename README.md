@@ -2,7 +2,7 @@
 
 Using [behave](https://behave.readthedocs.io/en/latest/) to illustarte [BDD](https://www.wikiwand.com/en/Behavior-driven_development).
 
-#### Example project (case)
+###### Case
 The Fenix International Software Team is working on an Exchange Tool, allowing a CSA  (customer service associate) to exchange the ReadyPay kit on a customer’s account to  another model at the wish of the customer.     
 Previously if a customer wanted to exchange their kit for a different model, a CSA (customer  service associate) would have to cancel their account, create a new account, and transfer  the balance manually. This was a complex process and had the undesired effect of  cancelling the customer’s original account.     
 The new tool will allow the CSA to change the kit on the existing account, and transfer the  balance in one simple form. Aside from being a far simpler process to follow, this also has  the benefit of not cancelling active accounts and affecting historical sales figures.
