@@ -1,6 +1,6 @@
 # BDD with Python
 
-Using [behave](https://behave.readthedocs.io/en/latest/) to illustarte [BDD](https://www.wikiwand.com/en/Behavior-driven_development).
+Using [behave](https://behave.readthedocs.io/en/latest/) to illustrate [BDD](https://www.wikiwand.com/en/Behavior-driven_development).
 
 See [case study](case-study/problem.md) for the questions being solved.
 
