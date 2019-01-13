@@ -32,5 +32,5 @@ So that we don't accept incomplete kits from customers and shrink our inventory
 ### How to:
 Assuming you have [behave](https://pypi.org/project/behave/) installed:sunglasses:, in the project directory, run the below:point_down: 
 ```
-$ bevave 
+$ behave 
 ```
