@@ -34,3 +34,5 @@ Assuming you have [behave](https://pypi.org/project/behave/) installed:sunglasse
 ```
 $ behave 
 ```
+
+![behave test result](screenshot/result.png)
